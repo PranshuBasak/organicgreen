@@ -71,7 +71,7 @@ const Carousal = () => {
         </div>
         <div className='absolute'>
 
-          <h1 className='title-head text-4xl  pt-32 text-center sm:text-6xl md:text-7xl lg:text-9xl select-none' >
+          <h1 className='title-head pt-10 text-4xl text-center sm:text-6xl md:text-7xl lg:text-9xl select-none' >
             100% Organic
           </h1>
           <p className='title-name select-none'> Created By @Pranshu Basak</p>
